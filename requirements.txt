@@ -1,0 +1,11 @@
+pygame
+edge-tts
+SpeechRecognition
+pyaudio
+keyboard
+psutil
+pyperclip
+pyautogui
+pillow
+pytesseract
+groq
